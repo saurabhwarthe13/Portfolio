@@ -141,7 +141,13 @@ h6 {
 }
 
 .skills-left img {
-  width: 70%;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  border-radius: 62%;
+  height: 100%;
 }
 
 .skills-right {
